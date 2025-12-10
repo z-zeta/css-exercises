@@ -12,21 +12,16 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .plants {
   display: flex;
   justify-content: center;
-  align-content: center;
   gap: 52px;
-  flex-wrap: wrap;
 }
 
-.one, 
-.two,
-.three,
-.four {
+.info {
   width: 200px;
   text-align: center;
 }
